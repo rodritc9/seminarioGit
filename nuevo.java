@@ -4,7 +4,7 @@ public class codigoFacil {
 
     public static void main(String[] args) {
         System.out.println("AUltimo archivo"); // imprimir
-int a=4;
+int b=45;
         
         
     }
